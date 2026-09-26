@@ -8,7 +8,7 @@ int main()
     // Enter marks
     for(int i = 0; i < 10; i++)
     {
-        cout << "Enter marks for Student " << i + 1 << ":\n";
+        cout << "Enter Marks for Student " << i + 1 << ":\n";
 
         for(int j = 0; j < 5; j++)
         {
